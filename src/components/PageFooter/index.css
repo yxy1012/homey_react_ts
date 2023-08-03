@@ -1,0 +1,16 @@
+.page-footer{
+    background-color: #f1f0fe;
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.page-footer-col{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0 3rem 0 3rem;
+}
+.page-footer-input-wrapper{
+    width: 20rem;
+}

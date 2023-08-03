@@ -1,0 +1,11 @@
+.color-white{
+    color: #fff;
+}
+.homey-button{
+    background-color: #e628a6;
+    color: #FFFFFF;
+}
+.homey-button:hover{
+    background-color: #ecb0d8 !important;
+    color: #FFFFFF;
+}

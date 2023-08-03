@@ -1,0 +1,58 @@
+.trending-title{
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+}
+.trending-list{
+    display: flex;
+    justify-content: center;
+}
+.trending-item{
+    width: 18rem;
+    height: 23rem;
+    margin: 0 1rem 0 1rem;
+    text-align: center;
+}
+.trending-item-image{
+    width: 100%;
+    height: 15rem;
+}
+.trending-item-originalPrice{
+    text-decoration: line-through; 
+    color: darkgrey; 
+    padding-left: 1rem;
+}
+.trending-card-side{
+    margin: 2rem 0 2rem 0;
+    display: flex;
+    justify-content: center;
+}
+.trending-card{
+    border-radius: 0.5rem;
+    margin-right: 2rem;
+    width: 23rem;
+    height: 12rem;
+    padding: 1rem;
+}
+.trending-card-button{
+    padding: 0;
+}
+.trending-card-image-wrapper{
+    display: flex;
+    justify-content: flex-end;
+}
+.trend-side-item{
+    width: 16rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+}
+.trend-side-item-image{
+    width: 5rem;
+    margin-right: 1rem;
+}
+.trend-side-item-name{
+    font-weight: bolder;
+}
+.trend-side-item-originalPrice{
+    text-decoration: line-through;
+    color: gray;
+}

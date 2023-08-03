@@ -1,0 +1,25 @@
+.pageHeader{
+    background-color: #6729e8;
+    height: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.pageHeader-item{
+    margin-right: 3rem;
+    color: #fff;
+    font-weight: 700;
+}
+.topMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menuItem{
+    text-align: center;
+    width: 8rem;
+    padding-top: 0.5rem;
+}
+.logo{
+    padding-top: 1rem;
+}

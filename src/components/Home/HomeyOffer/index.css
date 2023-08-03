@@ -1,0 +1,15 @@
+.homeyOffer-title{
+    text-align: center;
+    margin: 2rem 0 2rem 0;
+}
+.homeyOffer-list{
+    display: flex;
+    justify-content: center;
+}
+.homeyOffer-item{
+    margin: 1rem;
+    width: 15rem;
+}
+.homeyOffer-item-image{
+    width: 100%;
+}
